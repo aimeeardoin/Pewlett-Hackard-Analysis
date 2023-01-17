@@ -12,7 +12,10 @@
 -Tables Provided by Pewlett-Hackard
 --Using data provided, the employees eligible for Retirement were summarized here with all of their previous job titles:
 --https://github.com/aimeeardoin/Pewlett-Hackard-Analysis/commit/1adee8119917d78ccf544208473a65b430ce5bab
+
 -The total number of Retiring Employees are shown by department below:
+! 
+
 
 
 Links to images are working and displayed correctly. (2 pt)
